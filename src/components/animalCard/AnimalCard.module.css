@@ -1,0 +1,33 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-style: solid;
+    padding: 2rem;
+    width: 16rem;
+    height: 16rem;
+    border-radius: 0.4rem;
+    background-color: #8ee684;
+    gap: 1rem;
+}
+
+.animalImage {
+    aspect-ratio: 1/1;
+    width: 10rem;
+    border-radius: 0.4rem;
+    margin: 0;
+    padding: 0;
+}
+
+.buttonContainer {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: center;
+    gap: 4rem;
+}
+
+.button {
+    margin-top: auto;
+}

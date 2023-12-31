@@ -1,0 +1,54 @@
+{
+  "animals": [
+    {
+      "id": 1,
+      "name": "Panda",
+      "pictureUrl": "https://images.pexels.com/photos/14925845/pexels-photo-14925845.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Sloth",
+      "pictureUrl": " https://images.pexels.com/photos/4484954/pexels-photo-4484954.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Hippopotamus",
+      "pictureUrl": "https://images.pexels.com/photos/5715384/pexels-photo-5715384.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Arctic Fox",
+      "pictureUrl": "https://images.pexels.com/photos/5366108/pexels-photo-5366108.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Peacock",
+      "pictureUrl": "https://images.pexels.com/photos/533080/pexels-photo-533080.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Komodo Dragon",
+      "pictureUrl": "https://images.pexels.com/photos/42754/pexels-photo-42754.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Lemur",
+      "pictureUrl": "https://images.pexels.com/photos/3822505/pexels-photo-3822505.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "Lama",
+      "pictureUrl": "https://images.pexels.com/photos/16733346/pexels-photo-16733346/free-photo-of-muzzle-of-lama.jpeg"
+    },
+    {
+      "id": 9,
+      "name": "Wombat",
+      "pictureUrl": "https://images.pexels.com/photos/19302173/pexels-photo-19302173/free-photo-of-wombat-mother-and-young.png"
+    },
+    {
+      "id": 10,
+      "name": "Axolotl",
+      "pictureUrl": "https://images.pexels.com/photos/2168831/pexels-photo-2168831.jpeg"
+    }
+  ]
+}

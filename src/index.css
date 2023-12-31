@@ -1,0 +1,55 @@
+:root {
+    --c-bg-body: #84e6bf;
+    --c-t-body: #0c7a2d;
+
+    --br-inputs: 0.2rem;
+    --padding-inputs: 0.2rem;
+
+    --c-bg-btn: #0c7a2d;
+    --c-bg-btn-hover: #0c7a2d;
+    --c-bg-btn-active: #0c7a2d;
+    --br-btn-active: 0.5rem;
+
+    --c-t-btn: #ffffff;
+}
+
+body {
+    background-color: var(--c-bg-body);
+    color: var(--c-t-body);
+
+    font-family: "Comic Sans MS";
+
+    font-size: 16px;
+
+    margin: 0;
+    padding: 0.5rem 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    font-size: 1.2rem;
+    border-radius: var(--br-btn);
+    border-style: none;
+    padding: 0.25rem 0.3rem;
+    min-width: 5rem;
+
+    background-color: var(--c-bg-btn);
+    color: var(--c-t-btn);
+
+    transition: 0.05s;
+
+    &:hover {
+        cursor: pointer;
+        background-color: var(--c-bg-btn-hover);
+        transform: scale(1.05);
+    }
+
+    &:active {
+        background-color: var(--c-bg-btn-active);
+        border-radius: var(--br-btn-active);
+        transform: scale(0.96);
+    }
+}
